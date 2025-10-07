@@ -11,6 +11,7 @@ Ngày kết thúc: 14/10/2025
 7. Tạo project nhóm để luyện merge.
 8. Chụp ảnh và ghi lại quá trình commit.
 9. Tổng kết kiến thức và chuẩn bị thi.
+<<<<<<< Updated upstream
 
 \# Dự án mã nguồn mở
 
@@ -22,3 +23,8 @@ Ngày kết thúc: 14/10/2025
 
 
 
+=======
+10. \- Thêm chức năng báo cáo thống kê
+11. \- Cập nhật giao diện người dùng
+12. 
+>>>>>>> Stashed changes
