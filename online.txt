@@ -1,3 +1,6 @@
 Dòng 1: File tạo trực tiếp trên GitHub
 Dòng 2: Kiểm tra đồng bộ
 Dòng 3: Commit online
+Dòng 4: Cập nhật từ local
+Dòng 5: Hoàn tất đồng bộ
+
